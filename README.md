@@ -4,7 +4,7 @@ Below is a detailed explanation of each file and its purpose within the project.
 ## `Data_Extraction.ipynb`
 This notebook performs two primary tasks:
 
-1.Downloading Decision Files and Extracting Information: Utilizes the GPT-3.5-turbo API to download decision files and extract relevant information, resulting in the creation of `data_all.csv`.
+1.Downloading Decision Files and Extracting Information:Download decision files and utilizes the GPT-3.5-turbo API to extract relevant information, resulting in the creation of `data_all.csv`.
 
 2.Embedding Text Data: Downloads decision files and embeds the text data to generate the dataset required for the Neural Network model, resulting in the creation of `embeddings_num_df.csv`.
 
