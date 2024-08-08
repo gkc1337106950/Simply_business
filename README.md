@@ -26,5 +26,8 @@ Due to some limitations in the visualization within `EDA.ipynb`, some plots and 
 ## `data_all.csv`
 This dataset is obtained from `Data_Extraction.ipynb` and contains the extracted information from the decision files. It is used for various analyses and modeling tasks within the project.
 
+## `nn_tuning`
+This file stores the results of the hyperparameter tuning process for the Neural Network model.
+
 ## `embeddings_num_df.csv`
 This dataset is also obtained from `Data_Extraction.ipynb` and contains the embedded text data required for training the Neural Network model.
