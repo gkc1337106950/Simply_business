@@ -29,5 +29,6 @@ This dataset is obtained from `Data_Extraction.ipynb` and contains the extracted
 ## `nn_tuning`
 This file stores the results of the hyperparameter tuning process for the Neural Network model.
 
-## `embeddings_num_df.csv`
+## `embeddings_num_df.rar`
+Since the file is too large, I have uploaded it as rar file. When running the code, you will need to manually extract the contents.
 This dataset is also obtained from `Data_Extraction.ipynb` and contains the embedded text data required for training the Neural Network model.
